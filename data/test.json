@@ -1,0 +1,15 @@
+{
+    "channel": {
+        "lastBuild": "2013-11-12",
+        "component": [
+            "test1",
+            "test2",
+            "test3"
+        ],
+        "onemore": true,
+        "arr": [
+            1, 2, 3, 4
+        ]
+    },
+    "number": 42
+}
